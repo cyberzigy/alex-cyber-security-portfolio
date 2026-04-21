@@ -1,4 +1,4 @@
-## 📸 Screenshots
+## Linux Screenshots
 
 ### User Management
 
