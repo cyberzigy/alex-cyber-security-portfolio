@@ -1,8 +1,15 @@
 ## Linux Screenshots
 
 ### User Management
+##  Practical Demonstration
 
-![User Management](screenshots/user-management.png)
+### User Management & File Permissions
+
+This screenshot demonstrates practical Linux administration tasks including user creation, permission changes, and command-line navigation.
+
+![Linux User Management](screenshots/user-management-linux.png)
+
+
 
 ### File Permissions
 
@@ -12,6 +19,9 @@
 
 ![Processes](screenshots/process-monitoring.png)
 
-### Network Ports
+### Network Information
 
-![Network](screenshots/network-ports.png)
+Screenshot demonstrates Linux network interface and port visibility commands. Sensitive values were intentionally blurred for privacy and security best practices.
+
+![Network Info](screenshots/network-info.jpg)
+
