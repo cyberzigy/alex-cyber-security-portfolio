@@ -1,4 +1,7 @@
-# Alexander Joseph | Cybersecurity & SOC Analyst
+# Alexander Joseph
+
+## Cybersecurity Portfolio
+SOC Analyst | Cybersecurity Enthusiast | Blue Team Focus
 
 ## 🔐 Professional Summary
 
