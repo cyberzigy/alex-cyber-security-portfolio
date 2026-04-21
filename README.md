@@ -1,28 +1,42 @@
-# alex-cyber-security-portfolio
 # Alexander Joseph | Cybersecurity & SOC Analyst
 
-## 🔐 Professional Statement
+## 🔐 Professional Summary
 
-I am a Cybersecurity and SOC Analyst focused on identifying threats, analyzing risk, and supporting the protection of digital systems, data, and users against evolving cyber threats. My work is driven by a strong interest in understanding how security weaknesses emerge, how attacks develop, and how effective security controls can be applied to reduce organizational and operational risk.
+I am a Cybersecurity and SOC Analyst focused on identifying threats, analyzing risk, and protecting digital systems, data, and users against evolving cyber threats.
 
-I bring an analytical, methodical, and security-focused approach to cybersecurity, combining technical knowledge with clear communication, structured problem-solving, and continuous improvement. I am particularly engaged in Security Operations Center (SOC) functions such as monitoring security events, investigating alerts, assessing vulnerabilities, detecting suspicious activity, and supporting incident response processes.
+I bring an analytical and methodical approach to cybersecurity, combining technical knowledge with clear communication, structured problem-solving, and continuous improvement.
 
-My experience includes evaluating threats, reviewing system exposures, interpreting security logs, and aligning security practices with industry standards and regulatory expectations.
+My interests include Security Operations Center (SOC) activities such as monitoring security events, investigating alerts, reviewing vulnerabilities, detecting suspicious behavior, and supporting incident response processes.
 
-Ethical responsibility, accountability, and the protection of people and information are central to my professional values.
+I am committed to strengthening security operations, improving resilience, and contributing to secure and trusted technology environments.
 
-I am committed to strengthening security operations, maintaining effective controls, supporting organizational goals, and contributing to secure, reliable, and trusted technology environments.
+---
+
+## 🛠️ Technical Skills
+
+* Security Monitoring
+* Incident Response
+* SIEM Analysis
+* Risk Assessment
+* Threat Detection
+* Linux Administration
+* Network Security
+* Wireshark Packet Analysis
+* Vulnerability Awareness
+* Compliance & Controls Review
+
+---
 
 ## 📂 Portfolio Projects
 
 ### 🔐 Security Audit & Compliance Assessment
 
-Review of enterprise security controls, risks, and compliance readiness.
+Enterprise security control review, risk analysis, and compliance recommendations.
 ➡️ [View Project](./01-security-audit-project)
 
 ### 📊 SIEM Log Analysis – Website Outage Investigation
 
-Analysis of security logs and incident response during a simulated outage.
+Security event review and incident response analysis using centralized logs.
 ➡️ [View Project](./02-siem-log-analysis)
 
 ### 🐧 Linux Security Lab
@@ -30,7 +44,25 @@ Analysis of security logs and incident response during a simulated outage.
 Hands-on Linux administration, permissions, networking, and security tasks.
 ➡️ [View Project](./03-linux-security-lab)
 
-### 🌐 Wireshark Network Analysis
+### 🌐 Wireshark Network Traffic Analysis
 
-Packet capture and traffic analysis using Wireshark.
+Packet capture, protocol review, and traffic investigation using Wireshark.
 ➡️ [View Project](./04-wireshark-network-analysis)
+
+---
+
+## 🎯 Career Focus
+
+Seeking opportunities in:
+
+* SOC Analyst Roles
+* Cybersecurity Analyst Roles
+* Security Operations
+* Threat Monitoring
+* Incident Detection & Response
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/cyberzigy
