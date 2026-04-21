@@ -59,19 +59,36 @@ Linux is widely used in enterprise servers, cloud systems, and security operatio
 ---
 
 ##  Screenshots
-https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/directory-listing.jpg
+
+## 📁 Directory Listing Analysis
+
+This shows how files and folders are structured within the Linux system, helping to understand system organization and navigation.
+
+![Directory Listing](https://raw.githubusercontent.com/cyberzigy/alex-cyber-security-portfolio/main/03-linux-security-lab/screenshots/directory-listing.jpg)
+
+## 🔐 File Permissions Lab
+Understanding Linux file permissions and access control.
+
+![File Permission](https://raw.githubusercontent.com/cyberzigy/alex-cyber-security-portfolio/main/03-linux-security-lab/screenshots/file-permission.jpg)
 
 
-https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/file-permission.jpg
+##  Network Information
+Inspecting system network configuration and active interfaces.
+
+![Network Info](https://raw.githubusercontent.com/cyberzigy/alex-cyber-security-portfolio/main/03-linux-security-lab/screenshots/network-info.jpg)
 
 
-https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/network-info.jpg
+##  Process Monitoring
+Tracking running processes and system activity in real time.
+
+![Process Monitoring](https://raw.githubusercontent.com/cyberzigy/alex-cyber-security-portfolio/main/03-linux-security-lab/screenshots/process-monitoring.jpg)
 
 
-https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/process-monitoring.jpg
+##  User Management
+Managing users, permissions, and system accounts.
 
+![User Management](https://raw.githubusercontent.com/cyberzigy/alex-cyber-security-portfolio/main/03-linux-security-lab/screenshots/user-management.jpg)
 
-https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/user-management.jpg
 
 ---
 
