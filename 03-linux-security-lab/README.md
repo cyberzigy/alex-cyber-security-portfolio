@@ -58,6 +58,15 @@ Linux is widely used in enterprise servers, cloud systems, and security operatio
 
 ---
 
+##  Screenshots
+https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/directory-listing.jpg
+https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/file-permission.jpg
+https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/network-info.jpg
+https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/process-monitoring.jpg
+https://github.com/cyberzigy/alex-cyber-security-portfolio/blob/main/03-linux-security-lab/screenshots/user-management.jpg
+
+---
+
 ##  Security Concepts Applied
 
 * Principle of least privilege
