@@ -1,6 +1,5 @@
 ## Linux Screenshots
 
-### User Management
 ##  Practical Demonstration
 
 ### User Management & File Permissions
