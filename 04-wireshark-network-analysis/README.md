@@ -76,6 +76,33 @@ Packet analysis is a critical skill for SOC analysts when investigating alerts, 
 
 ## 📸 Screenshots
 
+### TCP Traffic Review
+
+![TCP Analysis](screenshots/tcp-traffic-analysis.jpg)
+
+### DNS Traffic Review
+![DNS Analysis](screenshots/dns-analysis.jpg)
+
+### Protocol Hierarchy Statistics
+
+![Protocol Hierarchy](screenshots/protocol-hierarchy-analysis.jpg)
+
+---
+
+##  Key Findings
+
+* Observed active TCP communications including encrypted HTTPS traffic over port 443.
+* Identified duplicate ACK and retransmission packets, which may indicate packet loss, latency, or unstable connectivity.
+* Confirmed DNS activity used for domain resolution during browsing sessions.
+* Protocol Hierarchy showed TCP as dominant traffic type with TLS-encrypted sessions present.
+
+---
+
+##  Mock SOC Analyst Observation
+
+During packet review, duplicate ACK and retransmission events were observed within active TCP sessions. These behaviors may indicate degraded network performance, congestion, or packet delivery issues. No clear evidence of malicious activity was identified during this capture, but continued monitoring would be recommended in a production environment.
+
+
 
 ---
 
