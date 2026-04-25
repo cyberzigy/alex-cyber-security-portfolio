@@ -1,1 +1,21 @@
+## 📸 Analysis Screenshots
+
+### TCP Traffic Review
+
+![TCP Analysis](screenshots/tcp-traffic-analysis.jpg)
+
+Filtered captured traffic to TCP packets and reviewed active sessions, encrypted communications, acknowledgments, and retransmission behavior.
+
+### DNS Query Analysis
+
+![DNS Query Analysis](screenshits/dns-analysis.jpg)
+
+
+Reviewed DNS queries generated during browsing activity to observe domain resolution behavior.
+
+### Protocol Hierarchy Statistics
+
+![Protocol Hierarchy](screenshots/protocol-hierarchy-analysis.jpg)
+
+Used Wireshark statistics to analyze traffic composition across IPv4, TCP, TLS, DNS, UDP, and ARP protocols to establish baseline network behavior.
 
