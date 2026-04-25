@@ -76,14 +76,23 @@ Packet analysis is a critical skill for SOC analysts when investigating alerts, 
 
 ## 📸 Screenshots
 
+
 ### TCP Traffic Review
+
+Filtered captured traffic to TCP packets and reviewed active sessions, encrypted communications, acknowledgments, and retransmission behavior.
 
 ![TCP Analysis](screenshots/tcp-traffic-analysis.jpg)
 
 ### DNS Traffic Review
+
+Reviewed DNS queries generated during browsing activity to observe domain resolution behavior.
+
 ![DNS Analysis](screenshots/dns-analysis.jpg)
 
 ### Protocol Hierarchy Statistics
+
+Used Wireshark statistics to analyze traffic composition across IPv4, TCP, TLS, DNS, UDP, and ARP protocols to establish 
+
 
 ![Protocol Hierarchy](screenshots/protocol-hierarchy-analysis.jpg)
 
