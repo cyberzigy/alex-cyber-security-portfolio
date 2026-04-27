@@ -91,7 +91,7 @@ Reviewed DNS queries generated during browsing activity to observe domain resolu
 
 ### Protocol Hierarchy Statistics
 
-Used Wireshark statistics to analyze traffic composition across IPv4, TCP, TLS, DNS, UDP, and ARP protocols to establish 
+Used Wireshark statistics to analyze traffic composition across IPv4, TCP, TLS, DNS, UDP, and ARP protocols to establish a baselne of normal network activity. 
 
 
 ![Protocol Hierarchy](screenshots/protocol-hierarchy-analysis.jpg)
