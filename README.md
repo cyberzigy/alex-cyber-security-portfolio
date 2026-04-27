@@ -53,6 +53,12 @@ Hands-on Linux administration, permissions, networking, and security tasks.
 Packet capture, protocol review, and traffic investigation using Wireshark.
 ➡️ [View Project](./04-wireshark-network-analysis)
 
+### 🗄️ SQL Security Log Analysis
+
+Authentication log analysis, suspicious IP detection, and failed login investigations using SQL.
+
+➡️ [View Project](./05-sql-security-log-analysis)
+
 ---
 
 ## 🎯 Career Focus
