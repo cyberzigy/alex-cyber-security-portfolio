@@ -59,6 +59,12 @@ Authentication log analysis, suspicious IP detection, and failed login investiga
 
 ➡️ [View Project](./05-sql-security-log-analysis)
 
+### 🛡️ Vulnerability Assessment – Database Exposure
+
+Risk analysis and security assessment of a publicly accessible database server.
+
+➡️ [View Project](./06-vulnerability-assessment-database-exposure)
+
 ---
 
 ## 🎯 Career Focus
