@@ -65,6 +65,12 @@ Risk analysis and security assessment of a publicly accessible database server.
 
 ➡️ [View Project](./06-vulnerability-assessment-database-exposure)
 
+### 🚨 Ransomware Incident Handler Journal
+
+Incident documentation and ransomware attack analysis involving phishing-based initial access and operational disruption.
+
+➡️ [View Project](./07-ransomware-incident-handler-journal)
+
 ---
 
 ## 🎯 Career Focus
