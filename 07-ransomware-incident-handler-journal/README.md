@@ -85,7 +85,11 @@ The attack succeeded because employees interacted with phishing emails and downl
 
 ## 📄 Full Incident Handler Journal
 
+
+[View Incident Handler Journal (PDF)](./ransomware-incident-handler-journal.pdf)
+
 [Download Incident Handler Journal](./ransomware_incident_handler_journal.docx)
+
 
 ---
 
