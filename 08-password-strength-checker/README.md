@@ -20,7 +20,7 @@ The password is then classified as:
 
 ## Project Repository
 
- [View the complete Password Strength Checker project](PASTE-YOUR-PROJECT-GITHUB-LINK-HERE)
+ [View the complete Password Strength Checker project](https://github.com/cyberzigy/Password-Strength-Checker)
 
 ## Technologies Used
 
